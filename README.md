@@ -15,7 +15,7 @@ A modern take on the classic Snake game built with **Python** and **Pygame**, fe
 
 ## 🖼️ Preview
 
-*(Include a screenshot or GIF of the game here if possible)*
+![image alt](https://github.com/P20000/snake-sprite-game/blob/main/screenshot-game.png?raw=true)
 
 ## 🧠 Controls
 
