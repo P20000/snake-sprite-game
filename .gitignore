@@ -1,0 +1,20 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# High score local storage (optional)
+highscores.json
+test_highscores_tmp.json
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
